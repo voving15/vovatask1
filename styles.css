@@ -1,0 +1,74 @@
+body {
+  background-color: aqua;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  margin: 0;
+}
+
+div {
+  border: 1px solid #000;
+}
+.welcome {
+  background: orange;
+  /* display: block; */
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+
+.item0 {
+  left: 0px;
+  top: 0px;
+
+}
+
+.item1 {
+  left: 100px;
+  top: 0px;
+
+}
+
+.item2 {
+  left: 200px;
+  top: 0px;
+
+}
+
+.item3 {
+  left: 0px;
+  top: 100px;
+
+}
+
+.item4 {
+  left: 100px;
+  top: 100px;
+
+}
+
+.item5 {
+  left: 200px;
+  top: 100px;
+
+}
+
+.item6 {
+  left: 0px;
+  top: 200px;
+
+}
+
+.item7 {
+  left: 100px;
+  top: 200px;
+
+}
+
+.item8 {
+  left: 200px;
+  top: 200px;
+
+}
